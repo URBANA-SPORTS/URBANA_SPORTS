@@ -1,0 +1,51 @@
+URBANA SPORTS — SITE NOVO
+==========================
+
+O QUE TEM NESTA PASTA
+----------------------
+- index.html  → estrutura do site
+- style.css   → todo o visual (preto + laranja)
+- script.js   → animações de entrada e scroll
+- imagens/    → fotos reais da loja (fachada e interior)
+
+Os três arquivos (index.html, style.css, script.js) precisam ficar SEMPRE
+juntos, na mesma pasta, senão o site perde o estilo e as animações.
+
+CONTATOS JÁ CONFIGURADOS
+---------------------------
+- WhatsApp da loja: (77) 3451-2666
+- Igor (consultor): (77) 99903-7797
+- Sabrina (consultora): (77) 99939-7005
+- Raissa (consultora): (77) 98158-3990
+- Instagram: @urbana_sports
+
+Todos os botões de WhatsApp já usam a logo oficial do WhatsApp e abrem
+direto a conversa com o número certo.
+
+SOBRE AS IMAGENS
+-----------------
+As fotos da loja (fachada e interior) estão na pasta "imagens" e já estão
+linkadas no código. As demais imagens (tênis, academia, etc.) vêm do
+Unsplash e carregam direto da internet quando o site estiver online.
+
+COMO COLOCAR ONLINE (passo a passo simples)
+---------------------------------------------
+Opção 1 — Netlify (mais fácil, grátis):
+1. Acesse https://app.netlify.com/drop
+2. Arraste esta pasta inteira pra dentro da página
+3. Pronto — em segundos você recebe um link público do site
+
+Opção 2 — Hospedagem que você já tem (cPanel, Hostinger etc.):
+1. Acesse o Gerenciador de Arquivos / File Manager
+2. Vá até a pasta "public_html"
+3. Envie TODOS os arquivos desta pasta (index.html, style.css, script.js
+   e a pasta imagens) — mantendo a mesma estrutura
+4. Acesse seu domínio — o site já estará no ar
+
+Opção 3 — GitHub Pages (grátis):
+1. Crie um repositório no GitHub
+2. Suba todos os arquivos desta pasta
+3. Em Settings > Pages, ative o GitHub Pages apontando pra branch principal
+4. Você recebe um link tipo seunome.github.io/repositorio
+
+Qualquer ajuste de texto, cor, imagem ou número, só me chamar.
